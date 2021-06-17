@@ -1,0 +1,10 @@
+To be import:
+
+from nltk.chat.util import Chat, reflections
+import requests
+import time
+from datetime import datetime
+
+
+-->No extra tools required to run the code.
+-->We wrote the code and the execution in spyder.
